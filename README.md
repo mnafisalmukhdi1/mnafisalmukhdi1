@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jekyll**
 
-- 👨‍💻 All of my projects are available at [https://nafis1.my.id/works/](https://nafis1.my.id/works/)
+- 👨‍💻 All of my projects are available at [https://nafis1.my.id/works](https://nafis1.my.id/works)
 
 - 📝 I regularly write articles on [https://blog.nafis1.my.id](https://blog.nafis1.my.id)
 
