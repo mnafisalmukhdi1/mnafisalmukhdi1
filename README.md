@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog.nafis1.my.id](https://blog.nafis1.my.id)
 
-- 📫 How to reach me **nafis1.my.id** or **contact@nafis1.my.id**
+- 📫 How to reach me **[https://nafis1.my.id](nafis1.my.id)** or **contact@nafis1.my.id**
 
 - 📄 Know about my experiences [https://nafis1.my.id/about](https://nafis1.my.id/about)
 
