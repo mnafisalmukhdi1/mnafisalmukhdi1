@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Nafis Al-Mukhdi.</h1>
-<h3 align="center">An Indonesian–specifically Banjarese–college students who have interest in Internet stuffs, a content creator/writer.</h3>
+<h3 align="center">An Indonesian–specifically Banjarese–college students who have interest in Internet stuffs, a content creator/writer/contributor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnafisalmukhdi1&label=Profile%20views&color=0e75b6&style=flat" alt="mnafisalmukhdi1" /> </p>
 
